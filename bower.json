@@ -3,7 +3,7 @@
   "private": true,
   "dependencies": {
     "jquery": "~1.11.0",
-    "pym": "git://github.com/AJInteractive/pym.js.git"
+    "pym": "git://github.com/AJInteractive/pym.js.git#c4b346f2f959d32c2d179c3b8132a5bdf984b14e"
   },
   "devDependencies": {}
 }
